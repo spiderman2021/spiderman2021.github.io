@@ -1,0 +1,29 @@
+.h1 {
+	color: red;
+	text-align: center;
+	background-size: 8px;
+	background-color: #c883fc;
+}
+.TEXT {
+	background-color:#eafc83;
+	background-size: 7px;
+	text-align: center;
+	color: green;
+}
+
+.div {
+	height:700px;
+	width:1200px;
+	background-color: #b3ffe2;
+	margin: auto;
+	padding: 15px;
+}
+
+.text {
+	color: brown;
+}
+
+body {
+	background-image: url("https://static.wikia.nocookie.net/bee-swarm-simulator/images/3/37/Preview_Bee_Swarm_Simulator.jpg/revision/latest?cb=20200919115123&path-prefix=ru");
+	background-size: cover;
+}

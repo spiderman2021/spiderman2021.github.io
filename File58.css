@@ -1,0 +1,18 @@
+.h1 {
+	color: red;
+	text-align: center;
+	background-size: 8px;
+	background-color:#2b5e8f;
+}
+
+.div {
+	width:1200px;
+	background-color: gray;
+	margin: auto;
+	padding: 15px;
+
+}
+body {
+	background-image: url("https://cdn.vox-cdn.com/thumbor/CJd8nEyawazKjkeScqVRT_hHypQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22363918/roblox.jpeg");
+	background-size: cover;
+}
